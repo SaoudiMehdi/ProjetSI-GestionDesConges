@@ -1,0 +1,23 @@
+footer {
+    height: 50px;
+    background-color: #d2d2d2;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: inherit;
+    margin-top: 0;
+}
+
+.copyright {
+    padding-top: 15px;
+    font-family:Verdana;
+    color: #4a4a4a;
+    font-size: 13px;
+}
+
+/*
+#footerUp {
+	margin-top: 252px;
+	margin-bottom: 0;
+}*/

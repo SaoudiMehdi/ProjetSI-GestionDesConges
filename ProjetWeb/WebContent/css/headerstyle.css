@@ -1,0 +1,18 @@
+#navbarNavAltMarkup {
+	background-color: #d2d2d2;
+}
+
+.bg-light {
+    background-color: #d2d2d2 !important;
+}
+
+.nav-item {
+	color: red;
+	font-weight: bold;
+}
+
+.nav-item:hover {
+	background-color: #eaecee;
+	border-radius: 5px;
+}
+
